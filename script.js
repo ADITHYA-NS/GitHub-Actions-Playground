@@ -6,3 +6,4 @@ const result = () => {
 document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('result').innerText = result();
 });
+//
